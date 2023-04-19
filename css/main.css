@@ -1,0 +1,52 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: aliceblue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.5rem;
+}
+.container-fluid-header{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    /*position: relative;*/
+    padding-left: 10%;
+    background-color: aliceblue;
+}
+.header-name {
+    font-size: 600%;
+    position: relative;
+    font-family: Andalus;
+}
+.bg {
+    background-color: dodgerblue;
+}
+/*.navbar-nav>li {*/
+/*    width: auto;*/
+/*    padding-left: 20%;*/
+/*    padding-right: 20%;*/
+/*}*/
+#demo img{
+    width: 100%;
+}
+.logo{
+    padding-right: 2%;
+}
+.profile{
+    padding: 4%;
+}
+.about_header{
+    padding-top: 1%;
+}
+.card {
+    margin: 0 auto;
+    float: none;
+    margin-bottom: 10px;
+}
+#card {
+    /*display: table;*/
+    margin: 1% auto;
+}
