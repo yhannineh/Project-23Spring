@@ -66,4 +66,23 @@
 .font-footer{
     font-size: large;
 }
+@media only screen and (max-width: 1220px) {
+    .header-name {
+        font-size: 600%;
+    }
+
+}
+@media only screen and (max-width: 977px) {
+    .header-name {
+        font-size: 450%;
+    }
+}
+@media only screen and (max-width: 768px) {
+    .header-name {
+        font-size: 350%
+    }
+    .header-font {
+        font-size: xx-large;
+    }
+}
 /*DEVELOPER: Yaman Hannineh, IS117-004, Spring 2023*/
